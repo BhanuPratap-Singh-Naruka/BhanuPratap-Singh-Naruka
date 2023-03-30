@@ -1,6 +1,7 @@
    <h1 align = "center" >Hello Everyone! Bhanu Here 👋 </h1> 
    
    
+   
    An aspiring front-end developer. I have done my bachelor's degree in Mechenical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
    Currently I am working on some Projects for my portfolio.  
    
@@ -11,18 +12,25 @@
    * Some CSS frameworks like Tailwind CSS and Bootstrap  
    * React.js  
    
-     And Some Basic Knowledge of:  
+     I also have hands on exposure on the following:  
        * Typescript
        * NodeJS
        * Express
        * MongoDB 
      
-   🌱 And currently I'm lerning about NextJs and more about Typescript
+   🌱 And currently I'm lerning about NextJs and more about Typescript  
    
-   ## Contact Me: 
-  * 📧 bhanupratapnaruka187@gmail.com
-  * 🐦 [Twitter](https://twitter.com/bhanuPr187)
-  * [Linkdin](https://www.linkedin.com/in/bhanu-pratap-singh-49953a209/)
+   
+   
+   <br>
+   
+   ## :trophy: My Github Stats: 
+   ![Bhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhanu0187&theme=midnight-purple&show_icons=true)
+   
+  > ## Contact Me: 
+  >* 📧 bhanupratapnaruka187@gmail.com
+  >* 🐦 [Twitter](https://twitter.com/bhanuPr187)
+  >* [Linkdin](https://www.linkedin.com/in/bhanu-pratap-singh-49953a209/)
 
 
 
