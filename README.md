@@ -2,7 +2,7 @@
    
    
    
-   An aspiring front-end developer. I have done my bachelor's degree in Mechenical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
+   An aspiring front-end developer. I have done my bachelor's degree in Mechanical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
    Currently I am working on some Projects for my portfolio.  
    
    ## 🛠️ Skills:-  
