@@ -1,10 +1,11 @@
    <h1 align = "center" >Hello Everyone! Bhanu Here 👋 </h1> 
    
    
-   A aspiring front-end developer. I have done my bachelor's degree in Mechenical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
+   An aspiring front-end developer. I have done my bachelor's degree in Mechenical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
    Currently I am working on some Projects for my portfolio.  
    
    ## 🛠️ Skills:-  
+   
    🔭 Here are some of the skills that I have developed in my journey as a frontend developer:
    * HTML, CSS, JS  
    * Some CSS frameworks like Tailwind CSS and Bootstrap  
@@ -14,7 +15,7 @@
    * NodeJS
    * Express
    * MongoDB  
-   🌱 And currently I'm lerning about NextJs and more about Typescript
+    🌱 And currently I'm lerning about NextJs and more about Typescript
    
    ## Contact Me: 
   * 📧 bhanupratapnaruka187@gmail.com
