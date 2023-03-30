@@ -9,13 +9,15 @@
    🔭 Here are some of the skills that I have developed in my journey as a frontend developer:
    * HTML, CSS, JS  
    * Some CSS frameworks like Tailwind CSS and Bootstrap  
-   * React.js
-   And Some Basic Knowledge of:
-   * Typescript
-   * NodeJS
-   * Express
-   * MongoDB  
-    🌱 And currently I'm lerning about NextJs and more about Typescript
+   * React.js  
+   
+     And Some Basic Knowledge of:  
+       * Typescript
+       * NodeJS
+       * Express
+       * MongoDB 
+     
+   🌱 And currently I'm lerning about NextJs and more about Typescript
    
    ## Contact Me: 
   * 📧 bhanupratapnaruka187@gmail.com
