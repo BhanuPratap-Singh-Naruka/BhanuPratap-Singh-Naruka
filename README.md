@@ -8,8 +8,8 @@
    ## 🛠️ Skills:-  
    
    🔭 Here are some of the skills that I have developed in my journey as a frontend developer:
-   * HTML, CSS, JS  
-   * Some CSS frameworks like Tailwind CSS and Bootstrap  
+   * HTML, CSS, JS
+   * Some CSS frameworks like Tailwind CSS and Bootstrap
    * React.js  
    
      I also have hands on exposure on the following:  
