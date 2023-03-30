@@ -1,4 +1,4 @@
-                                                      ### Hello Everyone! Bhanu Here 👋  
+   ### Hello Everyone! Bhanu Here 👋  
    
    
    A aspiring front-end developer. I have done my bachelor's degree in Mechenical Engineering but I have developed a strong interest in frontend development and have     been dedicating my time to learning and improving my skills in this field.  
